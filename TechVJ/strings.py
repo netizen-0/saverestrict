@@ -24,7 +24,7 @@ __send public/private posts link as explained above with formate "from - to" to 
 
 
 ```
-https://t.me/xxxx/1001-1010
+https://t.me/veron_bots/1001-1010
 
 https://t.me/c/xxxx/101 - 120
 ```
